@@ -16,10 +16,6 @@ Single-qubit state preparation and Bloch-sphere visualization
 
 Analytic vs. measured fidelity comparison
 
-Fidelity vs. angle sweep showing 
-$$ cos⁡2(Δθ/2) $$
-relationship
-
 Step-by-step code and circuit visualization
 
 Outcome:
