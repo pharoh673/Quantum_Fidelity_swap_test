@@ -18,7 +18,7 @@ Analytic vs. measured fidelity comparison
 
 Fidelity vs. angle sweep showing 
 $$ cos⁡2(Δθ/2) $$
-(Δθ/2) relationship
+relationship
 
 Step-by-step code and circuit visualization
 
