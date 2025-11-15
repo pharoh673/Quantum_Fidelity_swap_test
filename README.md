@@ -1,6 +1,6 @@
 # 🧠 When Two Quantum States Meet: Measuring Overlap with the SWAP Test
 
-### A Hands-On Quantum Fidelity Lab Built with Qiskit
+### A Hands-On Quantum Fidelity Lab Built with Qiskit AND Pennylane
 
 ---
 
